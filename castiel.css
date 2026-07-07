@@ -1,0 +1,1572 @@
+
+*{
+
+    margin:0;
+
+    padding:0;
+
+    box-sizing:border-box;
+
+}
+
+
+
+body{
+
+    font-family:Arial, Helvetica, sans-serif;
+
+    background:#111;
+
+    color:white;
+
+    line-height:1.6;
+
+}
+
+
+
+
+
+/* ==================================
+   CABEÇALHO
+================================== */
+
+
+header{
+
+    background:linear-gradient(#222,#000);
+
+    text-align:center;
+
+    padding:40px;
+
+    border-bottom:3px solid #666;
+
+}
+
+
+header h1{
+
+    font-size:50px;
+
+    color:#ddd;
+
+}
+
+
+
+
+
+/* ==================================
+   CSS GRID
+
+   Organiza as áreas da página
+   em colunas e linhas
+================================== */
+
+
+.container{
+
+
+    display:grid;
+
+
+    grid-template-columns:1fr 2fr;
+
+
+    gap:25px;
+
+
+    width:90%;
+
+
+    max-width:1100px;
+
+
+    margin:40px auto;
+
+
+}
+
+
+
+
+/* ==================================
+   CARDS DE CONTEÚDO
+================================== */
+
+
+section{
+
+
+    background:#1c1c1c;
+
+
+    padding:25px;
+
+
+    border-radius:15px;
+
+
+    box-shadow:0 0 15px rgba(255,255,255,.1);
+
+
+}
+
+
+
+h2{
+
+    color:#d4af37;
+
+    margin-bottom:15px;
+
+}
+
+
+
+
+
+/* ==================================
+   IMAGEM
+================================== */
+
+
+.imagem img{
+
+
+    width:100%;
+
+/* ==================================
+   CONFIGURAÇÃO GERAL DA PÁGINA
+================================== */
+
+
+*{
+
+    margin:0;
+
+    padding:0;
+
+    box-sizing:border-box;
+
+}
+
+
+
+body{
+
+    font-family:Arial, Helvetica, sans-serif;
+
+    background:#111;
+
+    color:white;
+
+    line-height:1.6;
+
+}
+
+
+
+
+
+/* ==================================
+   CABEÇALHO
+================================== */
+
+
+header{
+
+    background:linear-gradient(#222,#000);
+
+    text-align:center;
+
+    padding:40px;
+
+    border-bottom:3px solid #666;
+
+}
+
+
+header h1{
+
+    font-size:50px;
+
+    color:#ddd;
+
+}
+
+
+
+
+
+/* ==================================
+   CSS GRID
+
+   Organiza as áreas da página
+   em colunas e linhas
+================================== */
+
+
+.container{
+
+
+    display:grid;
+
+
+    grid-template-columns:1fr 2fr;
+
+
+    gap:25px;
+
+
+    width:90%;
+
+
+    max-width:1100px;
+
+
+    margin:40px auto;
+
+
+}
+
+
+
+
+/* ==================================
+   CARDS DE CONTEÚDO
+================================== */
+
+
+section{
+
+
+    background:#1c1c1c;
+
+
+    padding:25px;
+
+
+    border-radius:15px;
+
+
+    box-shadow:0 0 15px rgba(255,255,255,.1);
+
+
+}
+
+
+
+h2{
+
+    color:#d4af37;
+
+    margin-bottom:15px;
+
+}
+
+
+/* ==================================
+   CONFIGURAÇÃO GERAL DA PÁGINA
+================================== */
+
+
+*{
+
+    margin:0;
+
+    padding:0;
+
+    box-sizing:border-box;
+
+}
+
+
+
+body{
+
+    font-family:Arial, Helvetica, sans-serif;
+
+    background:#111;
+
+    color:white;
+
+    line-height:1.6;
+
+}
+
+
+
+
+
+/* ==================================
+   CABEÇALHO
+================================== */
+
+
+header{
+
+    background:linear-gradient(#222,#000);
+
+    text-align:center;
+
+    padding:40px;
+
+    border-bottom:3px solid #666;
+
+}
+
+
+header h1{
+
+    font-size:50px;
+
+    color:#ddd;
+
+}
+
+
+
+
+
+/* ==================================
+   CSS GRID
+
+   Organiza as áreas da página
+   em colunas e linhas
+================================== */
+
+
+.container{
+
+
+    display:grid;
+
+
+    grid-template-columns:1fr 2fr;
+
+
+    gap:25px;
+
+
+    width:90%;
+/* ==================================
+   CONFIGURAÇÃO GERAL DA PÁGINA
+================================== */
+
+
+*{
+
+    margin:0;
+
+    padding:0;
+
+    box-sizing:border-box;
+
+}
+
+
+
+body{
+
+    font-family:Arial, Helvetica, sans-serif;
+
+    background:#111;
+
+    color:white;
+
+    line-height:1.6;
+
+}
+
+
+
+
+
+/* ==================================
+   CABEÇALHO
+================================== */
+
+
+header{
+
+    background:linear-gradient(#222,#000);
+
+    text-align:center;
+
+    padding:40px;
+
+    border-bottom:3px solid #666;
+
+}
+
+
+header h1{
+
+    font-size:50px;
+
+    color:#ddd;
+
+}
+
+
+
+
+
+/* ==================================
+   CSS GRID
+
+   Organiza as áreas da página
+   em colunas e linhas
+================================== */
+
+
+.container{
+
+
+    display:grid;
+
+
+    grid-template-columns:1fr 2fr;
+
+
+    gap:25px;
+
+
+    width:90%;
+
+
+    max-width:1100px;
+
+
+    margin:40px auto;
+
+
+}
+
+
+
+
+/* ==================================
+   CARDS DE CONTEÚDO
+================================== */
+
+
+section{
+
+
+    background:#1c1c1c;
+
+
+    padding:25px;
+
+
+    border-radius:15px;
+
+
+    box-shadow:0 0 15px rgba(255,255,255,.1);
+
+
+}
+
+
+
+h2{
+
+    color:#d4af37;
+
+    margin-bottom:15px;
+
+}
+
+
+
+
+
+/* ==================================
+   IMAGEM
+================================== */
+
+
+.imagem img{
+
+
+    width:100%;
+
+
+    border-radius:15px;
+
+
+    border:3px solid #d4af37;
+
+
+}
+
+
+
+
+
+/* ==================================
+   LISTAS
+================================== */
+
+
+ul{
+
+    padding-left:25px;
+
+}
+
+
+li{
+
+    margin-bottom:10px;
+
+}
+
+
+
+
+
+/* ==================================
+   FRASE
+================================== */
+
+
+blockquote{
+
+
+    margin-top:15px;
+
+
+    padding:20px;
+
+
+    background:#000;
+
+
+    border-left:5px solid #d4af37;
+
+
+    font-style:italic;
+
+
+}
+
+
+
+
+
+/* ==================================
+   BOTÃO VOLTAR
+================================== */
+
+
+.botao{
+
+
+    display:block;
+
+
+    width:220px;
+
+
+    margin:30px auto;
+
+
+    padding:15px;
+
+
+    text-align:center;
+
+
+    background:#d4af37;
+
+
+    color:#000;
+
+
+    text-decoration:none;
+
+
+    font-weight:bold;
+
+
+    border-radius:10px;
+
+
+    transition:.3s;
+
+
+}
+
+
+
+.botao:hover{
+
+
+    background:white;
+
+
+}
+
+
+
+
+
+/* ==================================
+   RODAPÉ
+================================== */
+
+
+footer{
+
+
+    text-align:center;
+
+
+    background:#000;
+
+
+    padding:20px;
+
+
+}
+
+
+/* ==================================
+   CONFIGURAÇÃO GERAL DA PÁGINA
+================================== */
+
+
+*{
+
+    margin:0;
+
+    padding:0;
+
+    box-sizing:border-box;
+
+}
+
+
+
+body{
+
+    font-family:Arial, Helvetica, sans-serif;
+
+    background:#111;
+
+    color:white;
+
+    line-height:1.6;
+
+}
+
+
+
+
+
+/* ==================================
+   CABEÇALHO
+================================== */
+
+
+header{
+
+    background:linear-gradient(#222,#000);
+
+    text-align:center;
+
+    padding:40px;
+
+    border-bottom:3px solid #666;
+
+}
+
+
+header h1{
+
+    font-size:50px;
+
+    color:#ddd;
+
+}
+
+
+
+
+
+/* ==================================
+   CSS GRID
+
+   Organiza as áreas da página
+   em colunas e linhas
+================================== */
+
+
+.container{
+
+
+    display:grid;
+
+
+    grid-template-columns:1fr 2fr;
+
+
+    gap:25px;
+
+
+    width:90%;
+
+
+    max-width:1100px;
+
+
+    margin:40px auto;
+
+
+}
+
+
+
+
+/* ==================================
+   CARDS DE CONTEÚDO
+================================== */
+
+
+section{
+
+
+    background:#1c1c1c;
+
+
+    padding:25px;
+
+
+    border-radius:15px;
+
+
+    box-shadow:0 0 15px rgba(255,255,255,.1);
+
+
+}
+
+
+
+h2{
+
+    color:#d4af37;
+
+    margin-bottom:15px;
+
+}
+
+
+
+
+
+/* ==================================
+   IMAGEM
+================================== */
+
+
+.imagem img{
+
+
+    width:100%;
+
+
+    border-radius:15px;
+
+
+    border:3px solid #d4af37;
+
+
+}
+
+
+
+
+
+/* ==================================
+   LISTAS
+================================== */
+
+
+ul{
+
+    padding-left:25px;
+
+}
+
+
+li{
+
+    margin-bottom:10px;
+
+}
+
+
+
+
+
+/* ==================================
+   FRASE
+================================== */
+
+
+blockquote{
+
+
+    margin-top:15px;
+
+
+    padding:20px;
+
+
+    background:#000;
+
+
+    border-left:5px solid #d4af37;
+
+
+    font-style:italic;
+
+
+}
+
+
+
+
+
+/* ==================================
+   BOTÃO VOLTAR
+================================== */
+
+
+.botao{
+
+
+    display:block;
+
+
+    width:220px;
+
+
+    margin:30px auto;
+
+
+    padding:15px;
+
+
+    text-align:center;
+
+
+    background:#d4af37;
+
+
+    color:#000;
+
+
+    text-decoration:none;
+
+
+    font-weight:bold;
+
+
+    border-radius:10px;
+
+
+    transition:.3s;
+
+
+}
+
+
+
+.botao:hover{
+
+
+    background:white;
+
+
+}
+
+
+
+
+
+/* ==================================
+   RODAPÉ
+================================== */
+
+
+footer{
+
+
+    text-align:center;
+
+
+    background:#000;
+
+
+    padding:20px;
+
+
+}
+
+
+
+
+
+/* ==================================
+   RESPONSIVIDADE
+
+   Em celulares o Grid vira uma coluna
+================================== */
+
+
+@media(max-width:700px){
+
+
+    .container{
+
+
+        grid-template-columns:1fr;
+
+
+    }
+
+
+    header h1{
+
+
+        font-size:35px;
+
+
+    }
+
+
+}
+
+
+/* ==================================
+   RESPONSIVIDADE
+
+   Em celulares o Grid vira uma coluna
+================================== */
+
+
+@media(max-width:700px){
+
+
+    .container{
+
+
+        grid-template-columns:1fr;
+
+
+    }
+
+
+    header h1{
+
+
+        font-size:35px;
+
+
+    }
+
+
+}
+
+    max-width:1100px;
+
+
+    margin:40px auto;
+
+
+}
+
+
+
+
+/* ==================================
+   CARDS DE CONTEÚDO
+================================== */
+
+
+section{
+
+
+    background:#1c1c1c;
+
+
+    padding:25px;
+
+
+    border-radius:15px;
+
+
+    box-shadow:0 0 15px rgba(255,255,255,.1);
+
+
+}
+
+
+
+h2{
+
+    color:#d4af37;
+
+    margin-bottom:15px;
+
+}
+
+
+
+
+
+/* ==================================
+   IMAGEM
+================================== */
+
+
+.imagem img{
+
+
+    width:100%;
+
+
+    border-radius:15px;
+
+
+    border:3px solid #d4af37;
+
+
+}
+
+
+
+
+
+/* ==================================
+   LISTAS
+================================== */
+
+
+ul{
+
+    padding-left:25px;
+
+}
+
+
+li{
+
+    margin-bottom:10px;
+
+}
+
+
+
+
+
+/* ==================================
+   FRASE
+================================== */
+
+
+blockquote{
+
+
+    margin-top:15px;
+
+
+    padding:20px;
+
+
+    background:#000;
+
+
+    border-left:5px solid #d4af37;
+
+
+    font-style:italic;
+
+
+}
+
+
+
+
+
+/* ==================================
+   BOTÃO VOLTAR
+================================== */
+
+
+.botao{
+
+
+    display:block;
+
+
+    width:220px;
+
+
+    margin:30px auto;
+
+
+    padding:15px;
+
+
+    text-align:center;
+
+
+    background:#d4af37;
+
+
+    color:#000;
+
+
+    text-decoration:none;
+
+
+    font-weight:bold;
+
+
+    border-radius:10px;
+
+
+    transition:.3s;
+
+
+}
+
+
+
+.botao:hover{
+
+
+    background:white;
+
+
+}
+
+
+
+
+
+/* ==================================
+   RODAPÉ
+================================== */
+
+
+footer{
+
+
+    text-align:center;
+
+
+    background:#000;
+
+
+    padding:20px;
+
+
+}
+
+
+
+
+
+/* ==================================
+   RESPONSIVIDADE
+
+   Em celulares o Grid vira uma coluna
+================================== */
+
+
+@media(max-width:700px){
+
+
+    .container{
+
+
+        grid-template-columns:1fr;
+
+
+    }
+
+
+    header h1{
+
+
+        font-size:35px;
+
+
+    }
+
+
+}
+
+
+/* ==================================
+   IMAGEM
+================================== */
+
+
+.imagem img{
+
+
+    width:100%;
+
+
+    border-radius:15px;
+
+
+    border:3px solid #d4af37;
+
+
+}
+
+
+
+
+
+/* ==================================
+   LISTAS
+================================== */
+
+
+ul{
+
+    padding-left:25px;
+
+}
+
+
+li{
+
+    margin-bottom:10px;
+
+}
+
+
+
+
+
+/* ==================================
+   FRASE
+================================== */
+
+
+blockquote{
+
+
+    margin-top:15px;
+
+
+    padding:20px;
+
+
+    background:#000;
+
+
+    border-left:5px solid #d4af37;
+
+
+    font-style:italic;
+
+
+}
+
+
+
+
+
+/* ==================================
+   BOTÃO VOLTAR
+================================== */
+
+
+.botao{
+
+
+    display:block;
+
+
+    width:220px;
+
+
+    margin:30px auto;
+
+
+    padding:15px;
+
+
+    text-align:center;
+
+
+    background:#d4af37;
+
+
+    color:#000;
+
+
+    text-decoration:none;
+
+
+    font-weight:bold;
+
+
+    border-radius:10px;
+
+
+    transition:.3s;
+
+
+}
+
+
+
+.botao:hover{
+
+
+    background:white;
+
+
+}
+
+
+
+
+
+/* ==================================
+   RODAPÉ
+================================== */
+
+
+footer{
+
+
+    text-align:center;
+
+
+    background:#000;
+
+
+    padding:20px;
+
+
+}
+
+
+
+
+
+/* ==================================
+   RESPONSIVIDADE
+
+   Em celulares o Grid vira uma coluna
+================================== */
+
+
+@media(max-width:700px){
+
+
+    .container{
+
+
+        grid-template-columns:1fr;
+
+
+    }
+
+
+    header h1{
+
+
+        font-size:35px;
+
+
+    }
+
+
+}
+    border-radius:15px;
+
+
+    border:3px solid #d4af37;
+
+
+}
+
+
+
+
+
+/* ==================================
+   LISTAS
+================================== */
+
+
+ul{
+
+    padding-left:25px;
+
+}
+
+
+li{
+
+    margin-bottom:10px;
+
+}
+
+
+
+
+
+/* ==================================
+   FRASE
+================================== */
+
+
+blockquote{
+
+
+    margin-top:15px;
+
+
+    padding:20px;
+
+
+    background:#000;
+
+
+    border-left:5px solid #d4af37;
+
+
+    font-style:italic;
+
+
+}
+
+
+
+
+
+/* ==================================
+   BOTÃO VOLTAR
+================================== */
+
+
+.botao{
+
+
+    display:block;
+
+
+    width:220px;
+
+
+    margin:30px auto;
+
+
+    padding:15px;
+
+
+    text-align:center;
+
+
+    background:#d4af37;
+
+
+    color:#000;
+
+
+    text-decoration:none;
+
+
+    font-weight:bold;
+
+
+    border-radius:10px;
+
+
+    transition:.3s;
+
+
+}
+
+
+
+.botao:hover{
+
+
+    background:white;
+
+
+}
+
+
+
+
+
+/* ==================================
+   RODAPÉ
+================================== */
+
+
+footer{
+
+
+    text-align:center;
+
+
+    background:#000;
+
+
+    padding:20px;
+
+
+}
+
+
+
+
+
+/* ==================================
+   RESPONSIVIDADE
+
+   Em celulares o Grid vira uma coluna
+================================== */
+
+
+@media(max-width:700px){
+
+
+    .container{
+
+
+        grid-template-columns:1fr;
+
+
+    }
+
+
+    header h1{
+
+
+        font-size:35px;
+
+
+    }
+
+
+}
